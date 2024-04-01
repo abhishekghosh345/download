@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Telegram bot token
-TOKEN = '7168159809:AAESHTcJUS2_Sgzb2YiO9Q4ouHwPkl2vi70'
+TOKEN = 'BOT_TOKEN'
 
 # Terabox URL
 TERABOX_URL = 'https://terabox.com/'
